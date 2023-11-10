@@ -18,7 +18,8 @@ Never closed to learning new things, always on the lookout for new projects.
 
 # Some stat
 <div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DidoucheinSTI2D&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidoucheinSTI2D&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DidoucheinSTI2D&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 # Contact 
