@@ -8,7 +8,7 @@ Never closed to learning new things, always on the lookout for new projects.
 
 # My homies <3
 <p align=center>
-  <img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" height="60px"/>
+  <img title="GO" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="60px"/>
   <img title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="60px"/>
   <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60px"/>
   <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="60px"/>
