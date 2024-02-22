@@ -2,7 +2,7 @@
 Welcome to my Github : 
  * I'm actually working as a Junior Dev 💻
  * Studying to become a Blockchain Engineer 🌙
- * STI2D life 🖤
+ * STI2D product 🥤
 
 Never closed to learning new things, always on the lookout for new projects.
 
