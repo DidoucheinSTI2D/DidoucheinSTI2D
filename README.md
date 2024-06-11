@@ -5,6 +5,7 @@ Welcome to my Github :
  * STI2D product 🥤
 
 Never closed to learning new things, always on the lookout for new projects.
+BTW I will not put white charts bot code repository public, I made it so if you want it, dm me on twitter with a price.
 
 # My homies <3
 <p align=center>
