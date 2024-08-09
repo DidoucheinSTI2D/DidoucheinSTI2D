@@ -1,8 +1,8 @@
 # Hello World, I'm Didouche <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 Welcome to my Github : 
  * I'm actually working as a Junior Dev 💻
- * Studying to become a Blockchain Engineer 🌙
- * STI2D product 🥤
+ * Studying cauz my dad want it lmao 🌙
+ * STI2D 🥤
 
 Never closed to learning new things, always on the lookout for new projects.
 
