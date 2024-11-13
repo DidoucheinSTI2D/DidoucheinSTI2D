@@ -24,7 +24,7 @@ Never closed to learning new things, always on the lookout for new projects.
 
 # Contact 
 <div align="center">
-  <a href="[https://x.com/did0uche_dev](https://x.com/did0uche_dev)">
+  <a href="https://x.com/did0uche_dev">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <p>
