@@ -23,13 +23,13 @@
 ### 🧰 Stack
 
 <p align="left">
-  <img title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="45px"/>
-  <img title="Symfony" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" height="45px"/>
-  <img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="45px"/>
-  <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45px"/>
-  <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="45px"/>
-  <img title="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="45px"/>
-  <img title="Solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="45px"/>
+  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45px"/>
+  <img title="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="45px"/>
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45px"/>
+  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45px"/>
+  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45px"/>
+  <img title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45px"/>
+  <img title="Solidity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="45px"/>
 </p>
 
 ### 📊 Stats
