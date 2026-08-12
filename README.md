@@ -1,38 +1,54 @@
-# Hello World, I'm Didouche <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-Welcome to my Github : 
- * I'm actually working as a Junior Dev 💻
- * Studying cauz my dad want it lmao 🌙
- * STI2D 🥤
-
-Never closed to learning new things, always on the lookout for new projects.
-
-# My homies <3
-<p align=center>
-  <img title="GO" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="60px"/>
-  <img title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="60px"/>
-  <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60px"/>
-  <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="60px"/>
-  <img title="Symfony" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" height="60px"/>
-  <img title="Solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="60px"/> 
+<h1 align="center">Hi there, I'm Didouche 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Building+AI-powered+products" alt="Typing SVG"/>
 </p>
 
-# Some stat
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DidoucheinSTI2D&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidoucheinSTI2D&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-# Contact 
-<div align="center">
+<p align="center">
   <a href="https://x.com/did0uche_dev">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <p>
-  <img title="Discord" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
-  </p>
-  <p>
-  did0uche
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=DidoucheinSTI2D&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
- <p> BTW I will not put white charts bot code repository public, I made it so if you want it, dm me on twitter with a price.</p>
-</div>
+---
+
+### About
+
+- 🖥️ Full Stack Developer — I build and I ship
+- 💼 Entrepreneur on the side — deep into business, research, and ads
+- 🤖 Freelance dev on the side, building AI-powered products and automation tooling
+- 🛠️ Also doing sysadmin work — networking, infra, systems
+- 🔥 No days off. If it's not shipped, it doesn't count.
+
+### 🧰 Stack
+
+<p align="left">
+  <img title="PHP" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="45px"/>
+  <img title="Symfony" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" height="45px"/>
+  <img title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="45px"/>
+  <img title="Javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="45px"/>
+  <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="45px"/>
+  <img title="Go" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="45px"/>
+  <img title="Solidity" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" height="45px"/>
+</p>
+
+### 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DidoucheinSTI2D&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DidoucheinSTI2D&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165px"/>
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidoucheinSTI2D&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs"/>
+</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=DidoucheinSTI2D&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+### 📬 Contact
+
+Discord: **did0uche** &nbsp;•&nbsp; Twitter/X: [@did0uche_dev](https://x.com/did0uche_dev)
+
+---
+
+<p align="center"><sub>🔒 The white-chart bot repo stays private. Want it? DM me on Twitter with an offer.</sub></p>
