@@ -35,20 +35,14 @@
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DidoucheinSTI2D&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DidoucheinSTI2D&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165px"/>
+  <img src="https://streak-stats.demolab.com?user=DidoucheinSTI2D&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165px"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidoucheinSTI2D&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs"/>
-</p>
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=DidoucheinSTI2D&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDidoucheinSTI2D&label=Followers&query=followers&color=2F80ED&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDidoucheinSTI2D&label=Public%20Repos&query=public_repos&color=2F80ED&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
 </p>
 
 ### 📬 Contact
 
 Discord: **did0uche** &nbsp;•&nbsp; Twitter/X: [@did0uche_dev](https://x.com/did0uche_dev)
 
----
-
-<p align="center"><sub>🔒 The white-chart bot repo stays private. Want it? DM me on Twitter with an offer.</sub></p>
