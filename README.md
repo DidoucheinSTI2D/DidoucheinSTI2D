@@ -30,11 +30,29 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### ⚡ Backend, Systems & Web3
+### ⚡ Backend, AI & Web3
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG / LLM](https://img.shields.io/badge/RAG_%2F_LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🤖 Automation & AI Workflow
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex CLI](https://img.shields.io/badge/Codex_CLI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🌐 Systems & Networking
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Firewalls](https://img.shields.io/badge/Firewalls-4A4A4A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
@@ -48,10 +66,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DidoucheinSTI2D&theme=tokyonight" width="100%" alt="Profile Summary" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=DidoucheinSTI2D&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165px" />
-
 </div>
 
 ---
@@ -61,7 +75,5 @@
 <div align="center">
 
 Discord: **did0uche** &nbsp;•&nbsp; Twitter/X: [@did0uche_dev](https://x.com/did0uche_dev)
-
-<sub>🔒 The white-chart bot repo stays private. Want it? DM me on Twitter with an offer.</sub>
 
 </div>
