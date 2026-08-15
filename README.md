@@ -1,48 +1,67 @@
-<h1 align="center">Hi there, I'm Didouche 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Building+AI-powered+products" alt="Typing SVG"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://x.com/did0uche_dev">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=DidoucheinSTI2D&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+# Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Entrepreneur+%E2%80%94+Business%2C+Research%2C+Ads;Freelance+%26+AI-powered+Products;Sysadmin+%E2%80%94+Networking+%26+Infra)](https://git.io/typing-svg)
+
+<a href="https://x.com/did0uche_dev">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=DidoucheinSTI2D&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS" alt="Profile views"/>
 
 ---
 
-### About
+</div>
+
+## 🚀 About Me
 
 - 🖥️ Full Stack Developer — I build and I ship
 - 💼 Entrepreneur on the side — deep into business, research, and ads
-- 🤖 Freelance dev on the side, building AI-powered products and automation tooling
+- 🤖 Freelance dev, building AI-powered products and automation tooling
 - 🛠️ Also doing sysadmin work — networking, infra, systems
 - 🔥 No days off. If it's not shipped, it doesn't count.
 
-### 🧰 Stack
+---
 
-<p align="left">
-  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45px"/>
-  <img title="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="45px"/>
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45px"/>
-  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45px"/>
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45px"/>
-  <img title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45px"/>
-  <img title="Solidity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="45px"/>
-</p>
+## 🛠️ Tech Stack & Skills
 
-### 📊 Stats
+### 💻 Web Development & Full-Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=DidoucheinSTI2D&theme=highcontrast&hide_border=true" alt="GitHub Streak" height="165px"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDidoucheinSTI2D&label=Followers&query=followers&color=2F80ED&style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDidoucheinSTI2D&label=Public%20Repos&query=public_repos&color=2F80ED&style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
-</p>
+### ⚡ Backend, Systems & Web3
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### 📬 Contact
+---
+
+## 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DidoucheinSTI2D&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DidoucheinSTI2D&theme=tokyonight" width="100%" alt="Profile Summary" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=DidoucheinSTI2D&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165px" />
+
+</div>
+
+---
+
+## 📬 Contact
+
+<div align="center">
 
 Discord: **did0uche** &nbsp;•&nbsp; Twitter/X: [@did0uche_dev](https://x.com/did0uche_dev)
 
+<sub>🔒 The white-chart bot repo stays private. Want it? DM me on Twitter with an offer.</sub>
+
+</div>
